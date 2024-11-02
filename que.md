@@ -44,7 +44,9 @@ These SQL interview questions are based on a sample direct spend dataset with fi
 23. **Monthly Spend Trend**: Write a query to calculate the monthly spend trend for the dataset, grouping by month and year from the `date` field.
 24. **Payment Term Distribution**: Write a query to calculate the percentage of each `payment_type` within the dataset.
 25. **Impact of Exchange Rate Changes**: How would you structure a query to re-calculate the `price` column for EUR-based orders if the exchange rate changed to a new value?
+25. **Count of Unique Materials Ordered by Each Vendor: Write a query to find the number of unique materials ordered from each vendor. This can reveal which vendors provide a wider range of materials.
 
+26. ** Identify Infrequently Ordered Materials: Write a query to find materials that were ordered fewer than 3 times. Display material and the order count.
 ---
 
 These questions cover a range of SQL concepts, including filtering, aggregation, joins, subqueries, and window functions, providing a comprehensive assessment of SQL skills.
