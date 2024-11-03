@@ -2,6 +2,7 @@
 
 These SQL interview questions are based on a sample direct spend dataset with fields such as `POnumber`, `lineitem`, `date`, `vendor`, `material`, `plant`, `unit`, `price`, `currency`, `doc_type`, and `payment_type`. Use these questions to assess SQL proficiency, from basic queries to advanced concepts.
 
+# Load the csv by downloading from github & uploading to snowflake
 ---
 
 ## Basic Queries
