@@ -2,7 +2,10 @@
 
 These SQL interview questions are based on a sample direct spend dataset with fields such as `POnumber`, `lineitem`, `date`, `vendor`, `material`, `plant`, `unit`, `price`, `currency`, `doc_type`, and `payment_type`. Use these questions to assess SQL proficiency, from basic queries to advanced concepts.
 
-# Load the csv (Direct_spend_data.csv) by downloading from github & uploading to snowflake
+Pre-requisite:
+ 1. Create the snowflake account
+ 2. Create database " Analytics" & schena "Direct Spend"
+ 3. Load the csv (Direct_spend_data.csv) by downloading from github & uploading to snowflake in table "Purchase_order_trans"
 ---
 
 ## Basic Queries
