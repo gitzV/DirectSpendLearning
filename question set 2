@@ -1,0 +1,24 @@
+Select all records from the dataset.
+Select all purchase orders with a price greater than 5000.
+Filter records where the currency is "USD".
+Retrieve all distinct vendor names.
+Calculate the total price for each vendor.
+Find the average price of items grouped by material.
+Count the number of distinct plant locations.
+Retrieve all records ordered by date in descending order.
+Sort the data by price within each currency.
+Find the total spend per payment_type.
+Retrieve the maximum and minimum price for each doc_type.
+Find the top 5 most expensive purchase orders.
+Identify the most frequently purchased material.
+Find the total spend per plant location.
+Calculate the average price per unit type.
+Find all purchase orders with a payment_type of "NET30" and a price over 3000.
+Find all purchase orders made in the year 2024.
+Extract the month from the date column and group total spend by month.
+Add a new column that categorizes price into ranges (e.g., Low, Medium, High).
+Use a subquery to find the top 3 most expensive material purchases.
+Find the average price per currency, excluding prices below 100.
+Identify any vendor with total purchases over 10,000.
+Retrieve the total number of lineitem entries per POnumber.
+For each doc_type, calculate the total spend and order by highest spend.
