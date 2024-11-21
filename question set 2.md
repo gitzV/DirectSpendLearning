@@ -1,4 +1,4 @@
-#Schema Understanding
+## Schema Understanding
 How are the tables HUB_MATERIAL, HUB_VENDOR, Hub_Plant, SAT_PO_TRAN, and DIM_DATE related?
 Write an SQL query to join SAT_PO_TRAN with HUB_VENDOR and HUB_MATERIAL.
 
