@@ -1,5 +1,10 @@
-# Steps for query executions
-  ## Create snowflake account
-  ## Create snowflake database DV
-  ## Create snowflake schema Spend_Analytics
+# Steps for query executions:
+## 1> Create snowflake account
+## 2> Create snowflake database DV
+## 3> Create snowflake schema Spend_Analytics
+## 4> Run the create script present in dv_scripts
+## 5> Execute all the create sql script present in dv_scripts
+## 6> Execute all the insert sql script present in dv_scripts
+
+
 
