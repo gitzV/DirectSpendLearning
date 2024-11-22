@@ -3,8 +3,8 @@
 #### > Create snowflake database DV
 #### > Create snowflake schema Spend_Analytics
 #### > Run the create script present in dv_scripts
-#### > Execute all the create sql script present in dv_scripts
-#### > Execute all the insert sql script present in dv_scripts
+#### > Execute all the create sql script present in dv_scripts folder
+#### > Execute all the insert sql script present in dv_scripts folder
 
 
 ## Steps for Query execution
