@@ -1,5 +1,5 @@
 ## Schema Understanding
-### > How are the tables HUB_MATERIAL, HUB_VENDOR, Hub_Plant, SAT_PO_TRAN, and DIM_DATE related?
+### > How are the tables HUB_MATERIAL, HUB_VENDOR, Hub_Plant, SAT_PO_TRAN, and DIM_DATE related? Refer ER Diagram "ER Diagram.jpg"
 ### > Write an SQL query to join SAT_PO_TRAN with HUB_VENDOR and HUB_MATERIAL.
 
 ## Simple Queries
